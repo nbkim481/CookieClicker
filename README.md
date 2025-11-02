@@ -1,2 +1,2 @@
 # CookieClicker
-Simple Cookie Clicker Site
+Simple Cookie Clicker Site using HTML, CSS, and JS
